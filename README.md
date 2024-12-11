@@ -75,9 +75,9 @@ Make sure to replace `mydatabase`, `myuser`, and `mypassword` with the actual da
 Make sure your MySQL server is running before starting the application. The Spring Boot backend will now be up and connected to your MySQL database.
 
 ### Execute scripts for adding products to the products table:
-  ``` Open the `src/main/resources/e-commerceDbscripts.sql`
-      Execute the script with the databse you have created
-   ```
+  1. Open the `src/main/resources/e-commerceDbscripts.sql`
+  2.Execute the script with the databse you have created
+   
 
 ---
 
