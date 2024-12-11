@@ -76,6 +76,7 @@ Make sure your MySQL server is running before starting the application. The Spri
 
 ### Execute scripts for adding products to the products table:
   1. Open the `src/main/resources/e-commerceDbscripts.sql`
+  
   2.Execute the script with the databse you have created
    
 
